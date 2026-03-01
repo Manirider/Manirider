@@ -1,0 +1,8 @@
+{
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 2,
+  "ignorePatterns": [
+    { "pattern": "^https://linkedin\\.com/in/YOUR_LINKEDIN" }
+  ]
+}
