@@ -31,6 +31,19 @@ class Manikanta:
 
 ---
 
+## 🏆 GitHub Achievements
+
+| Achievement | Description |
+|---|---|
+| 🦈 Pull Shark | Merged pull requests |
+| 🤙 YOLO | Merged a PR without code review |
+| ⚡ Quickdraw | Closed an issue lightning fast |
+| 🌟 Starstruck | Repository with many stars |
+
+> *Collecting achievements one commit at a time!*
+
+---
+
 ## 🛠️ Tech Stack
 
 <details>
