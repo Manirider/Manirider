@@ -49,10 +49,12 @@ Manirider/
 
 ## Contributing to the Project
 
+
 I welcome issues and pull requests to make this project better. Please see the detailed guidelines in the [Contributing Guide](CONTRIBUTING.md).
 
 ## Project License
 
 This repository is distributed under the MIT License. For complete terms, see the [LICENSE](LICENSE) file.
+
 
 Developed by [S. Manikanta Suryasai](https://github.com/Manirider)
